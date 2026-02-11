@@ -1,0 +1,14 @@
+[
+  {
+    "device_id": "device-123",
+    "timestamp": 1678445730000,
+    "temperature": 24.5,
+    "humidity": 60
+  },
+  {
+    "device_id": "device-123",
+    "timestamp": 1678443330000,
+    "temperature": 24.5,
+    "humidity": 60
+  }
+]
