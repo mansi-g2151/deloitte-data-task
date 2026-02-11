@@ -1,6 +1,7 @@
 {
-  "device_id": "sensor-1",
-  "timestamp": 1700000000000,
-  "temperature": 25.5,
+  "deviceId": "device-123",
+  "timestamp": 1678445730000,
+  "temperature": 24.5,
   "humidity": 60
 }
+
